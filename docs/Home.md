@@ -1,5 +1,6 @@
 # _Shuffler_
-
+Don't use this page
+<!--
 ## What is Shuffler?
 ---
 > Our project is a wearable sensor which can be used to track the walking and shuffling habits of elderly people and those prone to falling. This device is mounted on the shoe of an elderly person to detect if they are shuffling, 
@@ -11,4 +12,4 @@
 ## How Did We Do It?
 ---
 > In order to successfully provide a proof-of-concept for this
-
+-->

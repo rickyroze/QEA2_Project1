@@ -67,7 +67,6 @@ plot(frequencies_shifted, abs(freq_shuffling_x))
 xlabel('frequency(hz)')
 ylabel('magnitude')
 title('Centered FFT of shuffling data.')
-
 % a frequency of < 1 hz is associated with shuffling with a substantially
 % lower magnitude.
 %% Plotting walking and shuffling data in the time domain for x,y,and z

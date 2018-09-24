@@ -15,4 +15,7 @@ As seen in the motion sketches above, there were two major components that seeme
 ---
 > To expand this product out more, the next steps for development would be to create a way for the sensor to detect falls, as one of the main reasons falls happen in the elderly is due to shuffling. In addition to this, further iteration of our motion model would be useful in making this a more robust system, and working with our user group to find the best method of data collection would be critical to further development of Shuffler.
 
+![](./TimeDomainPlots.png)
+![](./FrequencyDomainPlots.png)
+
 > After an injury in someone who may be prone to shuffling to determine if their gait pattern is improving or degrading.  With this information, it can be determined wheather or not further medical attention (such as physical therapy) is required.  In this system, we are also planning to integrate fall detection to distinguish between normal activities like sitting, and falling.
